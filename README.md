@@ -1,6 +1,6 @@
-👋 Hello everyone! I am an inspired Front-end developer, passionate about creating visually appealing and responsive web applications.
-🔭 I possess strong analytical thinking, well-developed organizational skills, and a keen eye for detail. I am ambitious, punctual, and goal-oriented, always ready to learn and grow.
-👯 I’m a friendly team player, open to collaboration and new projects.
+-👋 Hello everyone! I am an inspired Front-end developer, passionate about creating visually appealing and responsive web applications.
+-🔭 I possess strong analytical thinking, well-developed organizational skills, and a keen eye for detail. I am ambitious, punctual, and goal-oriented, always ready to learn and grow.
+-👯 I’m a friendly team player, open to collaboration and new projects.
 <!--
 **ConstantineKobushka/constantinekobushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
