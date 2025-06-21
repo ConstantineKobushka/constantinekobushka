@@ -1,9 +1,5 @@
 <h2 align="center">👋 Hello, I'm Constantine</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=👨‍💻 Frontend Developer;💡 Lifelong Learner;🎯 Passionate about UI/UX and Clean Code" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧠 About Me
