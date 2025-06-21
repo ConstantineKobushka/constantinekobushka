@@ -44,13 +44,13 @@
 ## 🌐 Contact Me
 
 <div align="center">
-  <a href="https://t.me/constantine_kobushka" target="_blank">
+  <a href="https://t.me/constantine_kobushka" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/constantine-kobushka" target="_blank">
+  <a href="https://www.linkedin.com/in/constantine-kobushka" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="mailto:kobushkaconstantine@gmail.com" target="_blank">
+  <a href="mailto:kobushkaconstantine@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
