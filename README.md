@@ -1,5 +1,4 @@
 <h2 align="center">👋 Hello, I'm Constantine</h2>
-
 ---
 
 ## 🧠 About Me
