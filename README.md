@@ -29,15 +29,15 @@
 
 ## 🌟 Featured Projects
 
-| Project Name | Demo | Description |
-|--------------|------|-------------|
-| 🚘 **Auto Room** | [🔗 Demo](https://constantinekobushka.github.io/auto-room) | Vehicle rental web application with filters and responsive UI |
-| 🎬 **Film Library** | [🔗 Demo](https://constantinekobushka.github.io/film-library) | Movie search app using The Movie DB API |
-| ✅ **ToDo List** | [🔗 Demo](https://constantinekobushka.github.io/todo-list-js) | Task manager with local storage support |
-| 🧵 **Vyshyvanka Vibes** | [🔗 Demo](https://constantinekobushka.github.io/vyshyvanka-vibes) | Landing page for ordering traditional Ukrainian embroidery |
-| 🍝 **Cucina di Catherina** | [🔗 Demo](https://constantinekobushka.github.io/cucina-di-catherina) | Landing page for pasta sauces delivery |
-| 🛒 **Food Delivery** | [🔗 Demo](https://constantinekobushka.github.io/food-delivery) | Mobile-first landing for ordering handmade food |
-| 💼 **Web Studio** | [🔗 Demo](https://constantinekobushka.github.io/web-studio) | Portfolio website for a digital design studio |
+| Project Name               | Demo                                                                  | Description                                                   |
+| -------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 🚘 **Auto Room**           | [🔗 Demo](https://auto-room-pied.vercel.app/)                         | Vehicle rental web application with filters and responsive UI |
+| 🎬 **Film Library**        | [🔗 Demo](https://goit-react-hw-05-two-omega-84.vercel.app/)          | Movie search app using The Movie DB API                       |
+| ✅ **ToDo List**           | [🔗 Demo](https://constantinekobushka.github.io/todo-list-js/)        | Task manager with local storage support                       |
+| 🧵 **Vyshyvanka Vibes**    | [🔗 Demo](https://constantinekobushka.github.io/vyshyvanka-vibes/)    | Landing page for ordering traditional Ukrainian embroidery    |
+| 🍝 **Cucina di Catherina** | [🔗 Demo](https://constantinekobushka.github.io/cucina-di-catherina/) | Landing page for pasta sauces delivery                        |
+| 🛒 **Food Delivery**       | [🔗 Demo](https://constantinekobushka.github.io/food-delivery/)       | Mobile-first landing for ordering handmade food               |
+| 💼 **Web Studio**          | [🔗 Demo](https://constantinekobushka.github.io/web-studio/)          | Portfolio website for a digital design studio                 |
 
 ---
 
