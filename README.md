@@ -1,4 +1,4 @@
-<h2 align="center">👋 Привіт / Hello, I'm Constantine</h2>
+<h2 align="center">👋 Hello, I'm Constantine</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=👨‍💻 Frontend Developer;💡 Lifelong Learner;🎯 Passionate about UI/UX and Clean Code" alt="Typing SVG" />
@@ -6,14 +6,12 @@
 
 ---
 
-## 🇺🇦 Про мене / About Me
+## 🧠 About Me
 
-| 🇺🇦 Українською                                                                                        | 🇬🇧 English                                                                                       |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 💻 Я — захоплений розробник інтерфейсів, який створює адаптивні, красиві та функціональні вебдодатки. | 💻 I'm a passionate front-end developer who builds responsive, elegant, and functional websites. |
-| 🧠 Маю аналітичне мислення, цілеспрямованість і увагу до деталей.                                     | 🧠 Strong analytical thinking, goal-oriented, and detail-driven.                                 |
-| 🤝 Люблю працювати в команді, відкритий до нових проєктів.                                            | 🤝 A collaborative team player, always open to new projects.                                     |
-| 🚀 Мета — постійно розвиватися і приносити користь крутим ідеям.                                      | 🚀 My mission is to grow constantly and contribute to meaningful projects.                       |
+- 💻 I'm a passionate front-end developer who builds responsive, elegant, and functional websites.
+- 🧠 Strong analytical thinker, detail-oriented, and always eager to learn.
+- 🤝 A collaborative team player, always open to new projects.
+- 🚀 My mission is to grow constantly and contribute to meaningful ideas and products.
 
 ---
 
@@ -35,11 +33,15 @@
 
 ## 🌟 Featured Projects
 
-| Назва проєкту              | Демо-посилання                                                       | Короткий опис                            |
-| -------------------------- | -------------------------------------------------------------------- | ---------------------------------------- |
-| 🧵 **Vyshyvanka Vibes**    | [🔗 Demo](https://constantinekobushka.github.io/food-delivery/)      | Сайт для замовлення вишиванок            |
-| ✅ **ToDoList**            | [🔗 Demo](https://constantinekobushka.github.io/todo-list-js)        | Менеджер завдань з локальним збереженням |
-| 🍝 **Cucina di Catherina** | [🔗 Demo](https://constantinekobushka.github.io/cucina-di-catherina) | Лендінг доставки соусів до пасти         |
+| Project Name | Demo | Description |
+|--------------|------|-------------|
+| 🚘 **Auto Room** | [🔗 Demo](https://constantinekobushka.github.io/auto-room) | Vehicle rental web application with filters and responsive UI |
+| 🎬 **Film Library** | [🔗 Demo](https://constantinekobushka.github.io/film-library) | Movie search app using The Movie DB API |
+| ✅ **ToDo List** | [🔗 Demo](https://constantinekobushka.github.io/todo-list-js) | Task manager with local storage support |
+| 🧵 **Vyshyvanka Vibes** | [🔗 Demo](https://constantinekobushka.github.io/vyshyvanka-vibes) | Landing page for ordering traditional Ukrainian embroidery |
+| 🍝 **Cucina di Catherina** | [🔗 Demo](https://constantinekobushka.github.io/cucina-di-catherina) | Landing page for pasta sauces delivery |
+| 🛒 **Food Delivery** | [🔗 Demo](https://constantinekobushka.github.io/food-delivery) | Mobile-first landing for ordering handmade food |
+| 💼 **Web Studio** | [🔗 Demo](https://constantinekobushka.github.io/web-studio) | Portfolio website for a digital design studio |
 
 ---
 
@@ -59,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats (Auto Dark Mode)
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ConstantineKobushka&show_icons=true&count_private=true&hide_border=false&theme=default" height="150" />
