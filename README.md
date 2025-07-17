@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ConstantineKobushka&show_icons=true&count_private=true&hide_border=false&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConstantineKobushka&layout=compact&hide_border=false&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ConstantineKobushka&show_icons=true&count_private=true&hide_border=false&theme=default" height="150" style="min-height:150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConstantineKobushka&layout=compact&hide_border=false&theme=default" height="150" style="min-height:150px;" />
 </div>
 
 ---
