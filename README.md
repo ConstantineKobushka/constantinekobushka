@@ -31,13 +31,13 @@
 
 | Project Name               | Demo                                                                  | Code                                                                  | Description                                                   |
 | -------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 🚘 **Auto Room**           | [🔗 Demo](https://auto-room-pied.vercel.app/)                         | [🔗 Demo](https://github.com/ConstantineKobushka/auto-room)           | Vehicle rental web application with filters and responsive UI |
-| 🎬 **Film Library**        | [🔗 Demo](https://goit-react-hw-05-two-omega-84.vercel.app/)          | [🔗 Demo](https://github.com/ConstantineKobushka/film-library)        | Movie search app using The Movie DB API                       |
-| ✅ **ToDo List**           | [🔗 Demo](https://constantinekobushka.github.io/todo-list-js/)        | [🔗 Demo](https://github.com/ConstantineKobushka/todo-list-js)        | Task manager with local storage support                       |
-| 🧵 **Vyshyvanka Vibes**    | [🔗 Demo](https://constantinekobushka.github.io/vyshyvanka-vibes/)    | [🔗 Demo](https://github.com/ConstantineKobushka/vyshyvanka-vibes)    | Landing page for ordering traditional Ukrainian embroidery    |
-| 🍝 **Cucina di Catherina** | [🔗 Demo](https://constantinekobushka.github.io/cucina-di-catherina/) | [🔗 Demo](https://github.com/ConstantineKobushka/cucina-di-catherina) | Landing page for pasta sauces delivery                        |
-| 🛒 **Food Delivery**       | [🔗 Demo](https://constantinekobushka.github.io/food-delivery/)       | [🔗 Demo](https://github.com/ConstantineKobushka/food-delivery)       | Mobile-first landing for ordering handmade food               |
-| 💼 **Web Studio**          | [🔗 Demo](https://constantinekobushka.github.io/web-studio/)          | [🔗 Demo](https://github.com/ConstantineKobushka/web-studio)          | Portfolio website for a digital design studio                 |
+| 🚘 **Auto Room**           | [🔗 Demo](https://auto-room-pied.vercel.app/)                         | [🔗 Code](https://github.com/ConstantineKobushka/auto-room)           | Vehicle rental web application with filters and responsive UI |
+| 🎬 **Film Library**        | [🔗 Demo](https://goit-react-hw-05-two-omega-84.vercel.app/)          | [🔗 Code](https://github.com/ConstantineKobushka/film-library)        | Movie search app using The Movie DB API                       |
+| ✅ **ToDo List**           | [🔗 Demo](https://constantinekobushka.github.io/todo-list-js/)        | [🔗 Code](https://github.com/ConstantineKobushka/todo-list-js)        | Task manager with local storage support                       |
+| 🧵 **Vyshyvanka Vibes**    | [🔗 Demo](https://constantinekobushka.github.io/vyshyvanka-vibes/)    | [🔗 Code](https://github.com/ConstantineKobushka/vyshyvanka-vibes)    | Landing page for ordering traditional Ukrainian embroidery    |
+| 🍝 **Cucina di Catherina** | [🔗 Demo](https://constantinekobushka.github.io/cucina-di-catherina/) | [🔗 Code](https://github.com/ConstantineKobushka/cucina-di-catherina) | Landing page for pasta sauces delivery                        |
+| 🛒 **Food Delivery**       | [🔗 Demo](https://constantinekobushka.github.io/food-delivery/)       | [🔗 Code](https://github.com/ConstantineKobushka/food-delivery)       | Mobile-first landing for ordering handmade food               |
+| 💼 **Web Studio**          | [🔗 Demo](https://constantinekobushka.github.io/web-studio/)          | [🔗 Code](https://github.com/ConstantineKobushka/web-studio)          | Portfolio website for a digital design studio                 |
 
 ---
 
