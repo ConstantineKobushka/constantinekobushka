@@ -69,5 +69,5 @@
 ## 👁️ Profile Views
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ConstantineKobushka" alt="Visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ConstantineKobushka&left_color=gray&right_color=blue" alt="Visitor badge" />
 </div>
