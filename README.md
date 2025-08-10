@@ -41,9 +41,10 @@
 
 ## 🟨 JavaScript Projects
 
-| Project          | Demo                                                           | Code                                                           | Description                             |
-| ---------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------- |
-| ✅ **ToDo List** | [🔗 Demo](https://constantinekobushka.github.io/todo-list-js/) | [🔗 Code](https://github.com/ConstantineKobushka/todo-list-js) | Task manager with local storage support |
+| Project                | Demo                                                              | Code                                                               | Description                              |
+| ---------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------- |
+| 📈 **Expense Tracker** | [🔗 Demo](https://constantinekobushka.github.io/expense-tracker/) | [🔗 Code](https://github.com/ConstantineKobushka/expense-tracker/) | Manage Your Finances with convenient app |
+| ✅ **ToDo List**       | [🔗 Demo](https://constantinekobushka.github.io/todo-list-js/)    | [🔗 Code](https://github.com/ConstantineKobushka/todo-list-js)     | Task manager with local storage support  |
 
 ---
 
