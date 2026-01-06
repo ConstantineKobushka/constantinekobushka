@@ -50,12 +50,13 @@
 
 ## 🎨 Landing Pages
 
-| Project                    | Demo                                                                  | Code                                                                  | Description                                                |
-| -------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 🧵 **Vyshyvanka Vibes**    | [🔗 Demo](https://constantinekobushka.github.io/vyshyvanka-vibes/)    | [🔗 Code](https://github.com/ConstantineKobushka/vyshyvanka-vibes)    | Landing page for ordering traditional Ukrainian embroidery |
-| 🍝 **Cucina di Catherina** | [🔗 Demo](https://constantinekobushka.github.io/cucina-di-catherina/) | [🔗 Code](https://github.com/ConstantineKobushka/cucina-di-catherina) | Landing page for pasta sauces delivery                     |
-| 🛒 **Food Delivery**       | [🔗 Demo](https://constantinekobushka.github.io/food-delivery/)       | [🔗 Code](https://github.com/ConstantineKobushka/food-delivery)       | Mobile-first landing for ordering handmade food            |
-| 💼 **Web Studio**          | [🔗 Demo](https://constantinekobushka.github.io/web-studio/)          | [🔗 Code](https://github.com/ConstantineKobushka/web-studio)          | Portfolio website for a digital design studio              |
+| Project                    | Demo                                                                  | Code                                                                  | Description                                                                   |
+| -------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 🧵 **Flower Lover**        | [🔗 Demo](https://constantinekobushka.github.io/flower-lover/)        | [🔗 Code](https://github.com/ConstantineKobushka/flower-lover)        | Service for ordering custom floral bouquets created by a professional florist |
+| 🧵 **Vyshyvanka Vibes**    | [🔗 Demo](https://constantinekobushka.github.io/vyshyvanka-vibes/)    | [🔗 Code](https://github.com/ConstantineKobushka/vyshyvanka-vibes)    | Landing page for ordering traditional Ukrainian embroidery                    |
+| 🍝 **Cucina di Catherina** | [🔗 Demo](https://constantinekobushka.github.io/cucina-di-catherina/) | [🔗 Code](https://github.com/ConstantineKobushka/cucina-di-catherina) | Landing page for pasta sauces delivery                                        |
+| 🛒 **Food Delivery**       | [🔗 Demo](https://constantinekobushka.github.io/food-delivery/)       | [🔗 Code](https://github.com/ConstantineKobushka/food-delivery)       | Mobile-first landing for ordering handmade food                               |
+| 💼 **Web Studio**          | [🔗 Demo](https://constantinekobushka.github.io/web-studio/)          | [🔗 Code](https://github.com/ConstantineKobushka/web-studio)          | Portfolio website for a digital design studio                                 |
 
 ---
 
