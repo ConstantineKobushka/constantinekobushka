@@ -33,11 +33,11 @@
 
 ## ⚛️ React Projects
 
-| Project                 | Demo                                                         | Code                                                               | Description                                                   |
-| ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------- |
-| 🚘 **Auto Room**        | [🔗 Demo](https://auto-room-pied.vercel.app/)                | [🔗 Code](https://github.com/ConstantineKobushka/auto-room)        | Vehicle rental web application with filters and responsive UI |
-| 🎬 **Film Library**     | [🔗 Demo](https://goit-react-hw-05-two-omega-84.vercel.app/) | [🔗 Code](https://github.com/ConstantineKobushka/goit-react-hw-05) | Movie search app using The Movie DB API                       |
-| 🌍 **Country Explorer** | [🔗 Demo](https://country-explorer-ochre-three.vercel.app/)  | [🔗 Code](https://github.com/ConstantineKobushka/country-explorer) | Countries search app using REST Countries API                 |
+| Project                 | Demo                                                        | Code                                                               | Description                                                   |
+| ----------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- |
+| 🚘 **Auto Room**        | [🔗 Demo](https://auto-room-pied.vercel.app/)               | [🔗 Code](https://github.com/ConstantineKobushka/auto-room)        | Vehicle rental web application with filters and responsive UI |
+| 🎬 **Film Library**     | [🔗 Demo](https://film-library-puce.vercel.app/)            | [🔗 Code](https://github.com/ConstantineKobushka/film-library)     | Movie search app using The Movie DB API                       |
+| 🌍 **Country Explorer** | [🔗 Demo](https://country-explorer-ochre-three.vercel.app/) | [🔗 Code](https://github.com/ConstantineKobushka/country-explorer) | Countries search app using REST Countries API                 |
 
 ---
 
